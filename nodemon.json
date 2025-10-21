@@ -1,0 +1,17 @@
+{
+    "env" : {
+        "MYSQL_USER" : "root",
+        "MYSQL_PASSWORD" : "root",
+        "MYSQL_DATABASE" : "database_name",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : 3306,
+
+
+        "JWT_KEY" : "key",
+        "REFRESH_JWT_KEY" : "refresh_key",
+        "CLI_JWT_KEY" : "keycli",
+        "CLI_REFRESH_JWT_KEY" : "reflesh_keycli"
+    }
+}
+
+
