@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "-"
+    "url": "https://github.com/VitorNovaisV/Rest-Api.git"
   },
   "keywords": [
     "rest-api",
@@ -18,9 +18,9 @@
   "author": "Vitor Oliveira",
   "license": "ISC",
   "bugs": {
-    "url": "-"
+    "url": "https://github.com/VitorNovaisV/Rest-Api/issues"
   },
-  "homepage": "-",
+  "homepage": "https://github.com/VitorNovaisV/Rest-Api#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.2",
